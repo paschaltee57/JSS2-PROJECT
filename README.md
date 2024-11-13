@@ -1,4 +1,4 @@
-# JSS1-PROJECT
+# JSS2-PROJECT
 <h1>Designing and editing a simple calculator </h1><br><br>
 <h2>correct the errors in plus and minus sign</h2>
 
